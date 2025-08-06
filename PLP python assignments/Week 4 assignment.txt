@@ -1,0 +1,8 @@
+This is a file i just created
+I am trying to write into a file
+I hope this runs successfully
+Python is fun
+
+I am trying to write into a file
+I hope this runs successfully
+Python is fun
