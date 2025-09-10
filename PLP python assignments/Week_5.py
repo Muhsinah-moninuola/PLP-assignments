@@ -77,7 +77,7 @@ class Dog(Animal):
 
 animals = [Dog(), Cat(), Animal()] #One list holding the different types of objects.
 for a in animals:                  #Iterate through each object…
-    a.action()                      #call the same method name, action().
+    a.action()                     #call the same method name, action().
 
 
         
